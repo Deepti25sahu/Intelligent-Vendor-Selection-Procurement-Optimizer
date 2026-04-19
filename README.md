@@ -8,12 +8,19 @@ A data-driven procurement analytics dashboard that helps businesses evaluate and
 🚀 Features
 
 🔐 User Authentication – Role-based login system (Admin/User)
+
 📊 Vendor Ranking – Intelligent scoring algorithm for optimal selection
+
 🧠 Decision Insights – Smart alerts and KPI metrics
+
 📈 Interactive Dashboard – Visualizations using Plotly
+
 🔍 Search & Filters – Dynamic filtering by category, location, rating
+
 ✏️ CRUD Operations – Add, edit, delete vendors (Admin access)
+
 📤 Data Export – Download data in CSV and Excel formats
+
 ⭐ Favorites – Mark and track preferred vendors
 
 How It Works
